@@ -1,0 +1,5 @@
+{
+  "name": "Board Exam Prep Assistant",
+  "description": "An AI-powered tool to help students prepare for board exams with revision materials, previous year question analysis, and mock tests.",
+  "requestFramePermissions": []
+}
